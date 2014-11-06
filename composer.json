@@ -1,0 +1,15 @@
+{
+    "name": "itcraftsmanpl/phpunit-tests",
+    "description":"Simple test showcase with PHPUnit",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "4.3.*"
+    },
+    "authors": [
+        {
+            "name": "Arkadiusz Kondas",
+            "email": "arkadiusz.kondas@gmail.com"
+        }
+    ]
+
+}
